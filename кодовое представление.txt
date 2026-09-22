@@ -1,0 +1,7 @@
+alternatives.log	        -rw-r--r--	                         644
+Директория (первая)	        drwxr-xr-x	                          755
+auth.log	                -rw-r-----	                           640
+bootstrap.log	                -rw-r--r--	                            644
+btmp	                        -rw-rw----	                            660
+dist-upgrade (директория)	drwxr-xr-x	                             755
+dpkg.log	                -rw-r--r--	                              644               
